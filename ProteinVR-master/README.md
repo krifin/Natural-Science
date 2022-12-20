@@ -2,12 +2,8 @@
 
 **Introduction**
 
-This work was published in March 2020 in [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007747). 
 
-
-**ProteinVR: Micro and Structural Biology in a Virtual World** is a revolutionary scientific undertaking from the Dr. Jacob D. Durrant Lab of Computational Drug Discovery ([DurrantLab GitHub](https://github.com/durrantlab)) at the University of Pittsburgh. We seek to leverage the power of new and inexpensive **Virtual Reality** technology to be the **first-ever software** that helps teach anatomy and molecular biology to a broad scientific audience. This software will be initially tailored to students at the collegiate level but can be adjusted for usage in secondary education. 
-
-I helped revise and give feedback on the grant that went into this project, ultimately yielding **$25,000** in funding. 
+**ProteinVR: Micro and Structural Biology in a Virtual World** is a revolutionary scientific undertaking. We seek to leverage the power of new and inexpensive **Virtual Reality** technology to be the **first-ever software** that helps teach anatomy and molecular biology to a broad scientific audience. This software will be initially tailored to students at the collegiate level but can be adjusted for usage in secondary education. 
 
 **Files**
 
@@ -28,12 +24,5 @@ Look at this document to have a **VERY PRELIMINARY** example of the ProteinVR so
 Folder that contains Blender Python (bpy) scripts used during the creation of anatomical models found in the `Anatomical Model Renders/` folder.
 
 
-**Contact Information** 
-
-![interests](https://avatars1.githubusercontent.com/u/38919947?s=400&u=49ab1365a14fac78a91e425efd583f7a2bcb3e25&v=4)
-
-Yogindra Raghav (YogiOnBioinformatics) 
-
-yraghav97@gmail.com
 
 
