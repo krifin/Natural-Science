@@ -7,7 +7,7 @@
 
 **Files**
 
-:file_folder: `Anatomical Model Renders/`
+:file_folder: `Anatomical Model Renders/` by yogi 
 
 This folder contains anatomical models rendered and saved as `.png` files. These models were created using Linux, Blender and Python scripts that are found on my account in a [different repository](https://github.com/YogiOnBioinformatics/Blender-Python-Scripts) known as `Blender-Python-Scripts`. The models took many months of work which involved creating scripts to automate loading in files, decimate (reduce data points) of 3D model objects, learn photography lighting techniques and viewing live surgical videos/images to determine correct colors for anatomical parts.
 
